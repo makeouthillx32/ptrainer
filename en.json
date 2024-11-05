@@ -55,27 +55,35 @@
     "email": "Mobilitymotion@gmail.com"
   },
   "footer": {
-  "left": {
-    "description": "Mobility Moments is a personal training service that provides safe and effective custom exercise plans. Your workout plan is unique to you and your goals."
-  },
-  "center": {
-    "heading": "Quick Links",
-    "links": [
-      { "text": "Home", "href": "#home" },
-      { "text": "About", "href": "#about" },
-      { "text": "Services", "href": "#services" },
-      { "text": "Price", "href": "#price" }
-    ]
-  },
-  "right": {
-    "heading": "Address",
-    "address": [
-      { "icon": "fas fa-map-marker-alt", "text": "Ridgecrest CA, 93555" },
-      { "icon": "fas fa-phone", "text": "+7607938987" },
-      { "icon": "fas fa-envelope-square", "text": "Mobilitymotion@gmail.com" }
-    ]
-  },
-  "developer": "Developer: Nikhil and Prashant",
+        "right": {
+            "contactHeading": "Contact Us",
+            "contactInfo": [
+                {
+                    "icon": "fa-phone",
+                    "text": "+1 (123) 456-7890"
+                },
+                {
+                    "icon": "fa-envelope",
+                    "text": "info@example.com"
+                },
+                {
+                    "icon": "fa-map-marker",
+                    "text": "123 Main Street, City, Country"
+                }
+            ]
+        },
+        "left": {
+            "description": "Providing quality services since 2023."
+        },
+        "center": {
+            "heading": "Quick Links",
+            "links": [
+                {"href": "#home", "text": "Home"},
+                {"href": "#about", "text": "About"},
+                {"href": "#services", "text": "Services"}
+            ]
+        },
+  "developer": "Developer: unenter",
   "copyright": " 2024 powered by unenter"
 },
 
