@@ -1,86 +1,93 @@
 {
   "home": {
-    "subtitle": "with Juli Burns",
-    "title_line1": "Build perfect body",
-    "title_line2": "shape for good and",
-    "title_line3": "healthy lifestyle",
-    "button": "Join now"
+    "subtitle": "com Juli Burns",
+    "title_line1": "Construa o corpo perfeito",
+    "title_line2": "para uma vida boa e",
+    "title_line3": "saudável",
+    "button": "Junte-se agora"
   },
   "about": {
-    "title": "About Mobility Moments",
-    "paragraph": "Hi, I'm Juli. I have been in the field of physical training for the past 2 years, helping people on the way to achieving their best functional physique and fitness.",
-    "additionalParagraph": "I provide a flexible training schedule with a variety of custom online and onsite personal training plans. Get started on your Mobility journey!"
+    "title": "Sobre Mobility Moments",
+    "paragraph": "Olá, sou a Juli. Estou na área de treinamento físico há 2 anos, ajudando as pessoas a alcançar seu melhor físico funcional e condicionamento físico.",
+    "additionalParagraph": "Ofereço um horário de treino flexível com uma variedade de planos de treinamento personalizados online e presenciais. Comece sua jornada de mobilidade!"
   },
   "services": {
-    "title": "My Services",
+    "title": "Meus Serviços",
     "items": [
       {
-        "title": "Custom Training",
-        "description": "Training plans considering all factors of our valuable clients. From fitting your budget to ensuring perfect time slots, we've got you covered."
+        "title": "Treinamento Personalizado",
+        "description": "Planos de treinamento que consideram todos os fatores dos nossos valiosos clientes. Desde ajustar seu orçamento até garantir horários ideais, cuidamos de tudo para você."
       },
       {
-        "title": "Real Results",
-        "description": "Proven techniques and expert coaching to help you achieve a longer, healthier life. I believe in a no-excuse approach to fitness with guaranteed results."
+        "title": "Resultados Reais",
+        "description": "Técnicas comprovadas e treinamento especializado para ajudá-lo a ter uma vida mais longa e saudável. Acredito em uma abordagem sem desculpas para o condicionamento físico com resultados garantidos."
       },
       {
-        "title": "Calculated Nutrition",
-        "description": "Personalized, calculated nutrition plans with optimized macros to remove obstacles to your progress."
+        "title": "Nutrição Calculada",
+        "description": "Planos de nutrição personalizados e calculados com macros otimizadas para eliminar obstáculos em seu progresso."
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Preços",
     "plans": [
       {
-        "title": "The Enthusiast",
-        "price": "$60",
-        "description": ["On-call training", "17 sessions per month"]
+        "title": "O Entusiasta",
+        "price": "R$60",
+        "description": ["Treinamento por chamada", "17 sessões por mês"]
       },
       {
-        "title": "The Visionary",
-        "price": "$85",
-        "description": ["Video call training", "17 sessions per month"]
+        "title": "O Visionário",
+        "price": "R$85",
+        "description": ["Treinamento por videoconferência", "17 sessões por mês"]
       },
       {
-        "title": "The Staunch",
-        "price": "$120",
-        "description": ["12 live on-site sessions per month", "10 video call sessions per month"]
+        "title": "O Determinado",
+        "price": "R$120",
+        "description": ["12 sessões presenciais ao mês", "10 sessões por videoconferência ao mês"]
       }
     ]
   },
   "contact": {
-    "title": "Contact Information",
+    "title": "Informações de Contato",
     "address": "Ridgecrest CA, 93555",
     "phone": "+7607938987",
     "email": "Mobilitymotion@gmail.com"
   },
   "footer": {
-  "left": {
-    "description": "Mobility Moments is a personal training service that provides safe and effective custom exercise plans. Your workout plan is unique to you and your goals."
+    "right": {
+      "contactHeading": "Contate-nos",
+      "contactInfo": [
+        {
+          "icon": "fa-phone",
+          "text": "+1 (123) 456-7890"
+        },
+        {
+          "icon": "fa-envelope",
+          "text": "info@example.com"
+        },
+        {
+          "icon": "fa-map-marker",
+          "text": "123 Main Street, Cidade, País"
+        }
+      ]
+    },
+    "left": {
+      "description": "Oferecendo serviços de qualidade desde 2023."
+    },
+    "center": {
+      "heading": "Links Rápidos",
+      "links": [
+        {"href": "#home", "text": "Início"},
+        {"href": "#about", "text": "Sobre"},
+        {"href": "#services", "text": "Serviços"}
+      ]
+    },
+    "developer": "Desenvolvedor: unenter",
+    "copyright": " 2024 desenvolvido por unenter"
   },
-  "center": {
-    "heading": "Quick Links",
-    "links": [
-      { "text": "Home", "href": "#home" },
-      { "text": "About", "href": "#about" },
-      { "text": "Services", "href": "#services" },
-      { "text": "Price", "href": "#price" }
-    ]
-  },
-  "right": {
-    "heading": "Address",
-    "address": [
-      { "icon": "fas fa-map-marker-alt", "text": "Ridgecrest CA, 93555" },
-      { "icon": "fas fa-phone", "text": "+7607938987" },
-      { "icon": "fas fa-envelope-square", "text": "Mobilitymotion@gmail.com" }
-    ]
-  },
-  "developer": "Developer: Nikhil and Prashant",
-  "copyright": " 2024 powered by unenter"
-},
-
   "maps": {
-    "heading": "Find Me at 760 Gym",
+    "heading": "Encontre-me no 760 Gym",
     "iframeSrc": "https://maps.google.com/maps?q=%20923%20S%20China%20Lake%20Blvd,%20Ridgecrest,%20CA%2093555&t=k&z=13&ie=UTF8&iwloc=&output=embed"
   }
 }
